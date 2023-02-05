@@ -3,5 +3,4 @@ Data Analytics Fundamentals Project 4
 
 The goals of this project are:
 
-Practice using Jupyter notebooks
-Work with data using Pandas
+Practice using Jupyter notebooks and to work with data using Pandas
